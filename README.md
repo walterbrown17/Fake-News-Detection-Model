@@ -6,6 +6,15 @@ This project demonstrates how Machine Learning can be used to classify news arti
 
 ---
 
+## 📂 Dataset
+
+The dataset (`fake.csv` and `true.csv`) is provided in the `data/` folder.  
+
+Source: [Kaggle Fake News Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
+
+---
+
+
 ## 🚀 Try it Yourself in Google Colab
 Click the link below to open and run the notebook directly in your browser:
 
@@ -57,13 +66,6 @@ Click the link below to open and run the notebook directly in your browser:
 
 ---
 
-## 📂 Dataset
-
-The dataset (`fake.csv` and `true.csv`) is provided in the `data/` folder.  
-
-Source: [Kaggle Fake News Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
-
----
 
 ## 💡 Key Takeaways
 
