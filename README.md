@@ -9,7 +9,7 @@ This project demonstrates how Machine Learning can be used to classify news arti
 ## 🚀 Try it Yourself in Google Colab
 Click the link below to open and run the notebook directly in your browser:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/Fake-News-Detection-ML/blob/main/Fake_News_Detection.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/your-username/Fake-News-Detection-ML/blob/main/Fake_News_Detection.ipynb](https://colab.research.google.com/github/walterbrown17/Fake-News-Detection-Model/blob/main/Fake_news_detection_using_ML_Techniques.ipynb))
 
 ---
 
